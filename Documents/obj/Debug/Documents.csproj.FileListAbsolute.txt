@@ -1,0 +1,10 @@
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\bin\Debug\Documents.exe.config
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\bin\Debug\Documents.exe
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\bin\Debug\Documents.pdb
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.csprojAssemblyReference.cache
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\hidden_tear.Form1.resources
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.Properties.Resources.resources
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.csproj.GenerateResource.cache
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.csproj.CoreCompileInputs.cache
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.exe
+C:\Users\CIA\Desktop\BLACKWAN\BLACKWAN\obj\Debug\Documents.pdb

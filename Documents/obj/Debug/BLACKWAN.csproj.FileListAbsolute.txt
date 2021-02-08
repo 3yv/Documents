@@ -1,0 +1,10 @@
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\bin\Debug\BLACKWAN.exe.config
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\bin\Debug\BLACKWAN.exe
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\bin\Debug\BLACKWAN.pdb
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.csprojAssemblyReference.cache
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\hidden_tear.Form1.resources
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.Properties.Resources.resources
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.csproj.GenerateResource.cache
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.csproj.CoreCompileInputs.cache
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.exe
+C:\Users\CIA\Desktop\BLACKWAN-Ransomware-main\BLACKWAN\BLACKWAN\obj\Debug\BLACKWAN.pdb
